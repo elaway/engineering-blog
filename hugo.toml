@@ -1,0 +1,4 @@
+theme = 'ananke'
+baseURL = 'https://engineering.elaway.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
